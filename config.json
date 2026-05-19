@@ -1,0 +1,43 @@
+{
+  "inputWorkbookPath": "%OneDrive%\\TRACKING\\tracking_raw.xlsx",
+  "inputSheetName": "1. raw",
+  "outputWorkbookPath": "%OneDrive%\\TRACKING\\tracking_result.xlsx",
+  "outputSheetName": "Tracking_Result",
+  "startRow": 2,
+  "skipMissingTracking": true,
+  "skipMissingCarrier": true,
+  "ignoredCarriers": [
+    "VESSEL",
+    "0"
+  ],
+  "columns": {
+    "bkg": [
+      "BKG",
+      "BOOKING",
+      "BOOKING NO",
+      "BOOKING NUMBER"
+    ],
+    "blNo": [
+      "BL NO.",
+      "BL NO",
+      "B/L NO",
+      "BILL OF LADING",
+      "BL"
+    ],
+    "trackingNumber": [
+      "TRACKING NUMBER",
+      "TRACKING NO",
+      "TRACKING",
+      "TRACKING_NUMBER"
+    ],
+    "carrier": [
+      "CARRIER",
+      "LINE",
+      "CARRIER CODE"
+    ]
+  },
+  "mirrorOutputToInputWorkbook": true,
+  "mirrorOutputSheetName": "3. result",
+  "autoSetupPythonCarriers": true,
+  "pythonSetupNonFatal": true
+}

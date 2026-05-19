@@ -1,0 +1,15 @@
+{
+  "name": "shipment-tracking-local",
+  "version": "1.0.0",
+  "description": "Project Tracking automation with Excel legacy runner and GitHub Actions TSV runner",
+  "main": "app/runner.js",
+  "scripts": {
+    "start": "node app/runner.js config.json",
+    "tracking:tsv": "node app/runner_tsv.js data/input.tsv data/results/latest",
+    "tracking:tsv:custom": "node app/runner_tsv.js"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0",
+    "xlsx": "^0.18.5"
+  }
+}
