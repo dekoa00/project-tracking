@@ -1,0 +1,35 @@
+[
+  {
+    "key": "039GX40031__WHL",
+    "bkg": "",
+    "blNo": "",
+    "trackingNumber": "039GX40031",
+    "carrier": "WHL",
+    "pod": "",
+    "eta": "",
+    "error": "WHL query input not found after 45000ms. URL=https://www.wanhai.com/views/cargo_track_v2/tracking_query.xhtml; Title=; Body=",
+    "lastChecked": "2026-05-19 11:59:45"
+  },
+  {
+    "key": "MEDUR7589829__MSC",
+    "bkg": "",
+    "blNo": "",
+    "trackingNumber": "MEDUR7589829",
+    "carrier": "MSC",
+    "pod": "",
+    "eta": "",
+    "error": "MSC: Cannot find tracking input",
+    "lastChecked": "2026-05-19 12:00:08"
+  },
+  {
+    "key": "SGNCB25051355__RCL",
+    "bkg": "",
+    "blNo": "",
+    "trackingNumber": "SGNCB25051355",
+    "carrier": "RCL",
+    "pod": "",
+    "eta": "",
+    "error": "NEED_MANUAL_VERIFY_RCL: RCL input did not appear after verification wait",
+    "lastChecked": "2026-05-19 12:03:21"
+  }
+]
