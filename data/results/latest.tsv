@@ -1,4 +1,4 @@
 KEY	BKG	BL NO.	TRACKING NUMBER	CARRIER	POD	ETA	ERROR	LAST CHECKED
-039GX40031__WHL			039GX40031	WHL			WHL query input not found after 45000ms. URL=https://www.wanhai.com/views/cargo_track_v2/tracking_query.xhtml; Title=; Body=	2026-06-06 11:39:43
-MEDUR7589829__MSC			MEDUR7589829	MSC			MSC: Cannot find tracking input	2026-06-06 11:40:06
-SGNCB25051355__RCL			SGNCB25051355	RCL			NEED_MANUAL_VERIFY_RCL: RCL input did not appear after verification wait	2026-06-06 11:43:21
+039GX40031__WHL			039GX40031	WHL			WHL query input not found after 45000ms. URL=https://www.wanhai.com/views/cargo_track_v2/tracking_query.xhtml; Title=; Body=	2026-06-07 12:10:27
+MEDUR7589829__MSC			MEDUR7589829	MSC			MSC: Cannot find tracking input	2026-06-07 12:10:49
+SGNCB25051355__RCL			SGNCB25051355	RCL			NEED_MANUAL_VERIFY_RCL: RCL input did not appear after verification wait	2026-06-07 12:14:00
