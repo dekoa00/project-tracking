@@ -8,7 +8,7 @@
     "pod": "",
     "eta": "",
     "error": "WHL query input not found after 45000ms. URL=https://www.wanhai.com/views/cargo_track_v2/tracking_query.xhtml; Title=; Body=",
-    "lastChecked": "2026-07-03 11:28:01"
+    "lastChecked": "2026-07-04 11:22:08"
   },
   {
     "key": "MEDUR7589829__MSC",
@@ -19,7 +19,7 @@
     "pod": "",
     "eta": "",
     "error": "MSC: Cannot find tracking input",
-    "lastChecked": "2026-07-03 11:28:24"
+    "lastChecked": "2026-07-04 11:22:30"
   },
   {
     "key": "SGNCB25051355__RCL",
@@ -30,6 +30,6 @@
     "pod": "",
     "eta": "",
     "error": "NEED_MANUAL_VERIFY_RCL: RCL input did not appear after verification wait",
-    "lastChecked": "2026-07-03 11:31:38"
+    "lastChecked": "2026-07-04 11:25:44"
   }
 ]
