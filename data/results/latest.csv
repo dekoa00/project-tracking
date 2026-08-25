@@ -1,4 +1,4 @@
 KEY,BKG,BL NO.,TRACKING NUMBER,CARRIER,POD,ETA,ERROR,LAST CHECKED
-039GX40031__WHL,,,039GX40031,WHL,,,WHL query input not found after 45000ms. URL=https://www.wanhai.com/views/cargo_track_v2/tracking_query.xhtml; Title=; Body=,2026-08-24 09:09:38
-MEDUR7589829__MSC,,,MEDUR7589829,MSC,,,MSC: Cannot find tracking input,2026-08-24 09:10:00
-SGNCB25051355__RCL,,,SGNCB25051355,RCL,,,NEED_MANUAL_VERIFY_RCL: RCL input did not appear after verification wait,2026-08-24 09:13:14
+039GX40031__WHL,,,039GX40031,WHL,,,WHL query input not found after 45000ms. URL=https://www.wanhai.com/views/cargo_track_v2/tracking_query.xhtml; Title=; Body=,2026-08-25 09:04:45
+MEDUR7589829__MSC,,,MEDUR7589829,MSC,,,MSC: Cannot find tracking input,2026-08-25 09:05:08
+SGNCB25051355__RCL,,,SGNCB25051355,RCL,,,NEED_MANUAL_VERIFY_RCL: RCL input did not appear after verification wait,2026-08-25 09:08:29
